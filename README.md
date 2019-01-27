@@ -3,4 +3,6 @@ this is the first repo
 
 It was born on a Wednesday
 
-I am the father
+It was modified on a Sunday
+
+I am still the father, and will always be
